@@ -382,6 +382,6 @@ STATUS_GROUPS = {
 }
 
 # Slovník s názvy status parametrů
-STATUS_GROUPS_CODES = {
+STATUS_CODES = {
     1: "Stavové hodnoty",
 }
