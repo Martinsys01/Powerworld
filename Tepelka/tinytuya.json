@@ -1,0 +1,6 @@
+﻿{
+    "apiKey": "apiKEY",
+    "apiSecret": "Tuya cloud secret ID",
+    "apiRegion": "eu",
+    "apiDeviceID": "Device name ID"
+    	}
